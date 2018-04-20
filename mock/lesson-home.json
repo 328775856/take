@@ -1,0 +1,36 @@
+{
+  "error": "0",
+  "message": "success",
+  "data": {
+    "banners": [
+      {
+        "image": "http://storage.yike.fm/lesson/cover/5a98b4e0437ab!cover",
+        "target": "/lesson/detail?sn=xxx"
+      }
+    ],
+    "blocks": [
+      {
+        "caption": "增广见闻",
+        "items": [
+          {
+            "image": "http://storage.yike.fm/lesson/cover/5a6c23a51ada2!cover",
+            "target": "/lesson/detail?sn=xxx",
+            "title": "正本清源区块链"
+          }
+        ],
+        "more": "/lesson/list?tag=horizon",
+      },
+      {
+        "caption": "使用技能",
+        "items": [
+          {
+            "image": "http://storage.yike.fm/series/cover/5a23887b50cd4!cover",
+            "target": "/lesson/detail?sn=xxx",
+            "title": "不用写代码的爬虫课"
+          }
+        ],
+        "more": "/lesson/list?tag=skills"
+      }
+    ]
+  }
+}
